@@ -1,7 +1,7 @@
-Binaries
-DerivedDataCache
-Intermediate
-Saved
+小生毕设/Binaries
+小生毕设/DerivedDataCache
+小生毕设/Intermediate
+小生毕设/Saved
 .vscode
 .vs
 *.VC.db
@@ -12,3 +12,5 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
+/小生毕设/Saved
+/小生毕设/Intermediate
